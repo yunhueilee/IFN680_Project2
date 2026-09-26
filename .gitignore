@@ -1,0 +1,15 @@
+# hidden files
+.DS_Store
+.zip
+
+# don't track these files
+*.pdf
+*.docx
+Week_3_solution.ipynb
+report.txt
+
+# Except the final report
+!project5_report.pdf
+
+# don't track folder
+chest_xray/

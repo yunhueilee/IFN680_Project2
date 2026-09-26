@@ -1,0 +1,27 @@
+Dear Lee, Yun-Huei
+
+This is some feedback about your Project 2 submission. I have separated the feedback for your report and your code so that the grade and the justification for each component are clear.
+
+Report grade:
+2.25
+
+Report comment:
+A) Need to run several experiments to test different learning rates, batch sizes, and related hyperparameters.
+
+D) The confusion matrix and all results should be reported on the testing set after training on train plus validation data.
+
+Code grade:
+1
+
+Code comment:
+Main_Report is not running.
+
+ 
+
+If you have any questions, please feel free to ask during the tutorial.
+
+Cheers
+
+Olivier, on behalf of the teaching team.
+
+ 
